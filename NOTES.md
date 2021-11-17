@@ -4,5 +4,6 @@
 
 ## HEADER COMPONENT:
    - [ ] The header displays an app name and a cart.
-   - [ ] The cart button is created in a seperate component, and then called(?) in the Header component.
+   - [ ] The cart button is created in a separate component, and then called(?) in the Header component.
    - [ ] The cart button is made out of an icon, some text/badge and a quantity
+
